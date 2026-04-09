@@ -1,0 +1,6 @@
+---
+- Slick Shoes
+- Bully Binders
+- Pinchers of Peril
+- true
+- 42
